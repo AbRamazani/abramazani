@@ -22,7 +22,7 @@
 
 ## Github stats
 ![github stats](https://github-readme-stats.vercel.app/api?username=abramazani&show_icons=true&include_all_commits=true&theme=prussian&count_private=true) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abramazani&theme=prussian&layout=compact&custom_title=Used%20languages)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abramazani&theme=prussian&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abramazani&theme=prussian&layout=compact&custom_title=Used%20languages)
   
 </div>
