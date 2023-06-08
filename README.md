@@ -20,8 +20,9 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/A_b_Ramazani86)
 
 ## Github stats
-![github stats](https://github-readme-stats.vercel.app/api?username=abramazani&show_icons=true&include_all_commits=true&theme=prussian&count_private=true) 
+![github stats](https://github-readme-stats.vercel.app/api?username=abramazani&show_icons=true&theme=prussian&count_private=true) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abramazani&theme=prussian&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abramazani&theme=prussian&layout=compact&custom_title=Used%20languages)
   
 </div>
